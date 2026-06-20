@@ -22,7 +22,7 @@ Computer Science Student & AI-Enhanced Full-Stack Developer. I bridge rigorous s
 *   **Sonus** — An advanced digital music application integrating streamlined media playback systems and modern frontend component design.
 *   **ZendMind** — A digital mental wellness platform architected with responsive frontend frameworks and intuitive user experience journeys.
 *   **QurbanIn** — A structured digital marketplace platform built to streamline religious token distribution workflows with explicit transaction integrity.
-*   **Portfolio Factory(https://github.com/MimoBram/portfolio-factory)** — A private, secure workspace ecosystem dedicated to managing and maintaining premium, high-end digital resumes.
+*   **Portfolio Factory** — A private, secure workspace ecosystem dedicated to managing and maintaining premium, high-end digital resumes.
 
 ### ✉️ How to Reach Me
 *   **Email:** bimoadi.bramantyo@gmail.com
